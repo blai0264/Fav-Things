@@ -43,7 +43,7 @@ input{
 
 .save{
   align-self: flex-start;
-  margin-right: 10%;
+  margin-right: 14.5%;
   height: 35;
   float: right;
   margin-bottom: 10px;
@@ -130,6 +130,10 @@ li{
 .name{
   margin-top: 10px;
  
+}
+
+.name, .verse{
+  width: 290px;
 }
 
 .character{
